@@ -1,5 +1,5 @@
 # DDL-DML
-##Задание 1
+## Задание 1
 1.1. Поднимите чистый инстанс MySQL версии 8.0+. Можно использовать локальный сервер или контейнер Docker.
 
 1.2. Создайте учётную запись sys_temp.
@@ -26,7 +26,6 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 
 <img src = "img\1_1_2.jpg" width = 100%>
 
-<img src = "img\1_1_3.jpg" width = 100%>
 
 1.2.
 <img src = "img\1_2.jpg" width = 100%>
@@ -56,7 +55,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 1.9.
 <img src = "img\1_9.jpg" width = 100%>
 
-##Задание 2
+## Задание 2
 Составьте таблицу, используя любой текстовый редактор или Excel, в которой должно быть два столбца: в первом должны быть названия таблиц восстановленной базы, во втором названия первичных ключей этих таблиц. Пример: (скриншот/текст)
 
 2.
